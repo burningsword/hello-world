@@ -1,7 +1,7 @@
 package pers.wk.git;
 
 /**
- * @description:
+ * @description: 消息导出
  * @author: wuke
  * @create: 2019-06-08 22:28
  **/
