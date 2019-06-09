@@ -9,5 +9,6 @@ public class MsgHandler {
 
     public static void handle(String input) {
         System.out.println("handle");
+        System.out.println("some msg");
     }
 }
