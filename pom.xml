@@ -6,7 +6,11 @@
 
     <groupId>pers.wk.git</groupId>
     <artifactId>hello-world</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../reactive-rest-service</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
